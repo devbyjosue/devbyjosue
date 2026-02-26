@@ -26,7 +26,7 @@ Passionate about building new projects, learning new things, and trying out new 
 <tr>
 <td width="50%">
 
-<img src="https://i.pinimg.com/736x/41/28/f9/4128f928df5eaab60ac98d183fc66aa1.jpg" width="100%" />
+<img src="./images/img1.jpg" width="100%" />
 
 </td>
 <td width="50%">
@@ -79,11 +79,11 @@ Feel free to ask me about **Backend, Frontend, SQL or new technologies.**
 <tr>
 <td width="50%">
 
-<img src="https://i.pinimg.com/736x/fe/00/22/fe002211dbd5f339a8d8b330da8626c2.jpg" width="100%" />
+<img src="./images/img2.jpg" width="100%" />
 
 </td>
 <td width="50%">
-<img src="https://i.pinimg.com/736x/ab/69/7b/ab697bed736f0f486e32be6f887a9411.jpg" width="100%" />
+<img src="/images/img3.jpg" width="100%" />
 </td>
 </tr>
 </table>
